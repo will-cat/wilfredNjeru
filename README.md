@@ -1,5 +1,5 @@
 Hi there, Am Wilfred 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rubal-mb" alt="rubal-mb" /> </p>
+
 
 I am an IT Student, currently in pre final year student at SSIPMT, Raipur
 
