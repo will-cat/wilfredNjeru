@@ -1,7 +1,7 @@
 Hi there, Am Wilfred 👋
 
 
-I am an IT Student, currently in pre final year student at SSIPMT, Raipur
+I am an IT Student, currently in my final year student at NIBS College Ruiru, Kenya
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
